@@ -11,7 +11,7 @@ on:
       - 'v*.*'
 
 env:
-  DOCKER_IMAGE_NAME: dbgurum/nodejs-ci
+  DOCKER_IMAGE_NAME: ssambbong/nodejs-ci
 
 jobs:
   build-and-push:
