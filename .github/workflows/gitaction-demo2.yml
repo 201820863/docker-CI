@@ -11,7 +11,7 @@ jobs:
       - run: echo "job.status is ${{ job.status }}."
       - run: echo "The workflow is code test on the runner."     
       - run: echo "A~~~Molavish!!"
-      - run: echo ""Youngdo Alpos vs Youngdo Sofla"
+      - run: echo "Youngdo Alpos vs Youngdo Sofla"
       - name: Check out repository code
         uses: actions/checkout@v2
       - name: List files on repository
