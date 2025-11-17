@@ -1,7 +1,7 @@
 name: GitAcionts-Demo3
 on:
   schedule:
-    - cron: '53 03 * * *'
+    - cron: '56 03 * * *'
 
 jobs:
   check-time:
